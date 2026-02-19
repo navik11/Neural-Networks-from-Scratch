@@ -1,3 +1,5 @@
+*Source: [**Neural Networks from Scratch in Python**](https://nnfs.io/) by Harrison Kinsley & Daniel Kukieła*
+
 # Chapter 4: Activation Functions
 
 Activation functions are applied to the outputs of neurons or layers to **modify their values**.
